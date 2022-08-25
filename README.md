@@ -69,7 +69,7 @@ Before using a release based workflow for a larger release, let's create a tag a
 </details>
 
 <!--Step 2-->
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 ### Release management
